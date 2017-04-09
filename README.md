@@ -7,11 +7,11 @@ author: gsacavdm
 # Sign in Azure AD B2C Users using Python-Flask Open Source Libraries
 
 > [!NOTE]
-> This sample is using a 3rd party library that has been tested for compatibility in basic scenarios with the v2.0 endpoint.  Microsoft does not provide fixes for these libraries and has not done a review of these libraries.  Issues and feature requests should be directed to the library's open-source project.  Please see this [document](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-libraries) for more information.   
+> This sample is using a 3rd party library that has been tested for compatibility in basic scenarios with the Azure AD B2C.  Microsoft does not provide fixes for these libraries and has not done a review of these libraries.  Issues and feature requests should be directed to the library's open-source project.  Please see this [document](https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-v2-libraries) for more information.   
 > 
 >
 
-This sample demonstrates how to use Azure AD with a 3rd party Python-Flask library ([flask-oauthlib](https://github.com/lepture/flask-oauthlib)) to do oAuth 2.0 against Azure AD B2C.  It then validates the access token using another 3rd party library ([python-jose](https://github.com/mpdavis/python-jose)). 
+This sample demonstrates how to use a 3rd party Python-Flask library ([flask-oauthlib](https://github.com/lepture/flask-oauthlib)) to do oAuth 2.0 against Azure AD B2C.  It then validates the access token using another 3rd party library ([python-jose](https://github.com/mpdavis/python-jose)). 
 
 
 ## How To Run This Sample
