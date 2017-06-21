@@ -1,7 +1,7 @@
 ---
 services: active-directory-b2c
 platforms: python
-author: gsacavdm
+author: navyasric
 ---
 
 # Sign in Azure AD B2C Users using Python-Flask Open Source Libraries
