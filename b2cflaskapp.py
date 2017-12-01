@@ -16,7 +16,7 @@ oauth = OAuth(app)
 # === Update these values ===========
 tenant_id = 'fabrikamb2c.onmicrosoft.com'
 client_id = 'fdb91ff5-5ce6-41f3-bdbd-8267c817015d'
-client_secret = 'X330F3#92!z614M4'
+client_secret = r'X330F3#92!z614M4'
 policy_name = 'b2c_1_susi'
 # ===================================
 
